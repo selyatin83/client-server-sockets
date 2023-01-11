@@ -1,0 +1,19 @@
+{
+    "name": "mselyatin/sockets",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mselyatin\\Sockets\\": "app/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Михаил Селятин",
+            "email": "mselyatin@enazamusic.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-json": "*"
+    }
+}
